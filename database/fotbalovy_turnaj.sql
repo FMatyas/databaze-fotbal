@@ -1,0 +1,1 @@
+-- Vlož zde svůj skutečný SQL dump fotbalovy_turnaj.sql

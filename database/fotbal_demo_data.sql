@@ -1,0 +1,1 @@
+-- Demo data budou generována skriptem generate_fotbal_data.py
