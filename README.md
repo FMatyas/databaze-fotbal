@@ -10,7 +10,7 @@ Obsahuje informace o týmech, hráčích, zápasech, událostech a přestupech.
 Níže je vizuální návrh databáze provedený v dbdiagram.io:
 
 <p align="center">
-  <img src="img/erd.png" width="900">
+  <img src="Fotbalovy turnaj.png" width="900">
 </p>
 
 ---
